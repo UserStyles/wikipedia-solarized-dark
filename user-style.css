@@ -1,0 +1,41 @@
+@-moz-document domain("wikipedia.org") {
+	* {
+		background-color: transparent !important;
+		color: #93a1a1 !important;
+	}
+
+	body, div, form, table, tbody, tr, td, fieldset, ul, li, a, #content, #bodyContent {
+		background-color: #002b36 !important;
+	}
+
+	input, select, button, checkbox {
+		background-color: #002b36 !important;
+	}
+
+	a {
+		color: #2aa198 !important;
+	}
+
+	a:hover {
+		background-color: #073642 !important;
+	}
+
+	a:visited {
+		color: #b58900 !important;
+	}
+
+	div.vectorTabs, div.vectorTabs ul, div.vectorTabs ul > li, div.vectorTabs ul > li > a {
+		background-color: #002b36 !important;
+		background-image: none !important;
+		border: none !important;
+	}
+
+	img {
+		background-color: #eee8d5 !important;
+	}
+
+	code, pre {
+		color: #b58900 !important;
+		background: #073642 !important;
+	}
+}
