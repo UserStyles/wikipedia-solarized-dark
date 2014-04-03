@@ -38,19 +38,20 @@
 		color: #b58900 !important;
 		background: #073642 !important;
 	}
+
 	#content {
 		border: 1px solid #586e75 !important;
 	}
+
 	h1, h2, h3, h4, h5, h6 {
 		border-bottom: 1px solid #586e75 !important;
 	}
-	div.thumbinner {
-		border: 1px solid #586e75 !important;
-	}
+
 	#mw-panel.collapsible-nav .portal {
-		background-image: none !important; /*removes the left sidebar white bottom border*/
+		background-image: none !important;
 	}
-	#toc, .toc, .mw-warning {
+
+	div.thumbinner, #toc, .toc, .mw-warning {
 		border: 1px solid #586e75 !important;
 	}
 }
