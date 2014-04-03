@@ -45,7 +45,7 @@
 		border-bottom: 1px solid #586e75 !important;
 	}
 	div.thumbinner {
-		border: 1px solid #586e75;
+		border: 1px solid #586e75 !important;
 	}
 	#mw-panel.collapsible-nav .portal {
 		background-image: none !important; /*removes the left sidebar white bottom border*/
