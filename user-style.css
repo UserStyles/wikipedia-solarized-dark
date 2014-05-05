@@ -27,6 +27,7 @@
 	a.new, #p-personal a.new {
 		color: #dc322f !important;
 	}
+
 	a.new:visited, #p-personal a.new:visited {
 		color: #cb4b16 !important;
 	}
